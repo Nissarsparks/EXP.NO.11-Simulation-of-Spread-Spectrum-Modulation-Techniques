@@ -1,6 +1,3 @@
-# EXP.NO.11-Simulation-of-Spread-Spectrum-Modulation-Techniques
-# Deepak B V(212223060036)
-
 11.Simulation of Spread Spectrum Modulation Techniques
 Simulation of Spread Spectrum Modulation Techniques
 
